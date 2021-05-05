@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "32cbcb798f893d3512dbc5eaf542038914b58008",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-05-05 13:37:29",
+    "files": 1,
+    "merge": false,
+    "message": "Don't use bash\n"
+  },
+  "remote": "https://github.com/ropensci/xslt",
+  "pkg": "xslt"
+}
