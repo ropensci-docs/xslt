@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "56ceeeaee604fa872bb3f161d52a6b4b6a82796d",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-02-21 15:19:19",
+    "files": 1,
+    "merge": false,
+    "message": "Cleanup\n"
+  },
+  "repo": "https://github.com/ropensci/xslt",
+  "pkg": "xslt"
+}
